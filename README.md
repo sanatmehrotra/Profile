@@ -1,3 +1,5 @@
+
+
 # Hi there, I'm Sanat Mehrotra 👋
 
 I'm currently a first-year B.Tech student majoring in Computer Science. I'm a Full Stack Developer with a knack for learning new technologies and a curious mind that never stops exploring.
@@ -7,7 +9,6 @@ I'm currently a first-year B.Tech student majoring in Computer Science. I'm a Fu
 - Front-end development: HTML, CSS, JavaScript
 - Back-end development: Node.js
 - Templating: EJS
-- Problem Solving: LeetCode
 
 ## 🎯 Latest Project
 
@@ -15,11 +16,11 @@ I recently built a full-stack contact app using Node.js, EJS, and Vanilla JS. Th
 
 ## 📚 I'm currently learning
 
-I'm currently diving deeper into Full Stack Development and always looking for the next tech to learn.
+I'm currently diving deeper into Full Stack Development and always looking for the next tech to learn. I'm also new to LeetCode and improving my problem-solving skills each day.
 
-## 📈 LeetCode Profile
+## 📈 LeetCode Journey
 
-I regularly solve problems on LeetCode. You can check my progress [here](<insert LeetCode profile link here>).
+I'm new to LeetCode and am working on improving my problem-solving skills each day. You can follow my progress [here](<insert LeetCode profile link here>).
 
 ## 📫 How to reach me
 
