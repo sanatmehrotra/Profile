@@ -30,7 +30,7 @@ You can connect with me on [LinkedIn](<https://www.linkedin.com/in/sanat-mehrotr
 ## 📂 My Projects
 
 - **Latest Project:** [Full-stack contact app (GitHub Repository)](<https://github.com/sanatmehrotra/Contact-App>)
-- **GitHub Repository of Custom API:** [Custom API GitHub Repository](<https://github.com/sanatmehrotra/mycontacts-Backende>)
+- **GitHub Repository of Custom API:** [Custom API GitHub Repository](<https://github.com/sanatmehrotra/mycontacts-Backend>)
 
 You can also check out my other projects on [GitHub](<https://github.com/sanatmehrotra>).
 
