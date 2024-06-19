@@ -23,6 +23,8 @@ I'm new to LeetCode and am working on improving my problem-solving skills each d
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mehrotrasanat2006)
 
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=mehrotrasrnz9)](https://www.geeksforgeeks.org/user/mehrotrasrnz9/)
+
 ## 📫 How to reach me
 
 You can connect with me on [LinkedIn](<https://www.linkedin.com/in/sanat-mehrotra-4aa6442a6/>).
