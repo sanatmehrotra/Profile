@@ -21,7 +21,7 @@ I'm currently diving deeper into Full Stack Development and always looking for t
 
 I'm new to LeetCode and am working on improving my problem-solving skills each day. You can follow my progress [here](<https://leetcode.com/mehrotrasanat2006/>).
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/mehrotrasanat2006)(https://leetcode.com/u/mehrotrasanat2006/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/mehrotrasanat2006)(<https://leetcode.com/u/mehrotrasanat2006/>)
 
 [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=mehrotrasrnz9)](https://www.geeksforgeeks.org/user/mehrotrasrnz9/)
 
